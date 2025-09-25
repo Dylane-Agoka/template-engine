@@ -424,6 +424,10 @@ header .navbar {
   max-width: 50%;
 }
 
+.link-site {
+  color: var(--secondary-color);
+}
+
 .contact-section .contact-form .form-input:focus {
   border-color: var(--secondary-color);
 }
